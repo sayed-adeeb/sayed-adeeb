@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayed-adeeb
 - 👀 I’m a DevOps Enthusiast.
-- 🌱 I’m Intrasted in learning more about DevOps and its latest tools. ...
+- 🌱 I’m Intrested in learning more about DevOps and its latest tools. ...
 - 📫 You can follow me on LinkedIn -https://www.linkedin.com/in/adeeb-sayed-devops-enthusiast
 
 <!---
